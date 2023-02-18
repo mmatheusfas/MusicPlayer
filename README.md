@@ -1,8 +1,8 @@
-# app_musicplayer1
+# App Musicplayer
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Description
 
 This project is a starting point for a Flutter application.
 
